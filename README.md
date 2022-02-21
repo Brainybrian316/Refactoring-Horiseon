@@ -14,6 +14,16 @@ The purpose of this project is to build a function webpage that is more accessib
   - add alt tags to an image to provide descriptions.
   - add comments to my HTML and CSS for organization and best practices.
   - Use what I learned from previous modules to edit CSS classes, selectors, and CSS properties.
+
+  ## Installation
+ No installation necesary simple click on the following link to view the deployed website: https://brainybrian316.github.io/challenge-1/
   
-  ##
+  ## Credits
+  -Solo project and no other contributors
   
+  ## Usage
+  **what the website is and what somebody would use it for insert here
+  **insert image of front page
+  
+  ## License 
+ Website not currently licensed. 
