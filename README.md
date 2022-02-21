@@ -1,5 +1,12 @@
 # <Horiseon-landing-page>
-
+  
+## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  
 ## Description
 
   ### Motivation 
@@ -19,8 +26,10 @@ The purpose of this project is to build a function webpage that is more accessib
  No installation necesary simple click on the following link to view the deployed website: https://brainybrian316.github.io/challenge-1/
   
   ## Usage
-  **what the website is and what somebody would use it for insert here
-  **insert image of front page
+  
+  A webpage with information on the benefits of accessibility. Anyone who wants some ideas on how to make their webpage stand out would use the information provided on this webpage.
+  
+![ScreenShot](/assets/images/horiseon-frontpage.png)
   
    ## Credits
   - Solo project and no other contributors
